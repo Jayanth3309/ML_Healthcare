@@ -1,0 +1,33 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environment
+venv/
+env/
+ENV/
+.venv/
+.Python
+
+# Logs and DBs
+*.log
+*.sqlite3
+*.db
+
+# Flask instance folder
+instance/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code and system files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Large files previously removed
+model.sav
+*.mp4
+Project Code explanation/
